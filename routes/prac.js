@@ -217,3 +217,10 @@ function checkAvailability(arr, val) {
 
 console.log(checkAvailability(fruits, 'kela'));   
 console.log(checkAvailability(fruits, 'banana'));
+
+
+
+
+
+
+
